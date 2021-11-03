@@ -1,3 +1,9 @@
+#### This repository are forked as a note for me ([TIRTAGT](https://github.com/TIRTAGT)) that I had joined the GitHub Universe 2021
+
+Event can be replayed by visiting the Github's [YouTube Video](https://youtu.be/t7owQr243JY) !
+
+<hr>
+
 <img src="https://user-images.githubusercontent.com/20666190/136454574-f6b62855-3ca1-4420-b980-d72f0abfa8f9.png" width="300" alt="GitHub Universe Virtual 2021">
 
 [https://githubuniverse.com](https://githubuniverse.com)
